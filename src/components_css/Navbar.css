@@ -2,7 +2,7 @@
   display: flex;
   flex: 1;
   width: 100%;
-  background-color: #e6e6e6; 
+  background-color: #fff; 
 }
 .navbar hr{
 border-bottom: 10px solid #000;
