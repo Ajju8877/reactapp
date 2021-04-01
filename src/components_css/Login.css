@@ -1,0 +1,38 @@
+.login {
+  justify-content: center;
+  align-items: center;
+}
+.login h2 {
+  color: #990000;
+  margin: 20px 0px 50px 0px;
+  text-align: center;
+}
+.login hr {
+  border-bottom: 2px solid #000;
+  width: 300px;
+  margin: auto;
+}
+.login_form form {
+  justify-content: center;
+  text-align: center;
+}
+.login_form input {
+  padding: 10px 20px;
+  margin-top: 3px;
+  margin-bottom: 20px;
+  width: 300px;
+  outline: none;
+}
+.label {
+  font-weight: bold;
+}
+button {
+  padding: 10px 30px;
+  background-color: #0052cc;
+  outline: none;
+  border: none;
+  border-radius: 2px;
+  color: #fff;
+  cursor: pointer;
+  margin: 20px auto;
+}

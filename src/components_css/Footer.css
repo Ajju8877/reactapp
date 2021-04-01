@@ -1,0 +1,23 @@
+.footer {
+  background-color: #ccc;
+  color: #000;
+  margin-top: 20px;
+  padding: 10px;
+  bottom: 0;
+}
+.footer_content {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.footer .footer_contact {
+  width: 280px;
+}
+.copyright {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  color: #aaa;
+  text-align: center;
+}

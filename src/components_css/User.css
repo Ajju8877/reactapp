@@ -1,0 +1,15 @@
+.user{
+margin: 10px;
+
+}#userpic{
+background-color: #ddd;
+width: 120px;
+height: 120px;
+border: 1px solid #264d73;
+}
+#username{
+width: 100px;
+text-align: center;
+color: #990000;
+font-weight: bold;
+}

@@ -1,0 +1,45 @@
+.pro{
+  width: 280px;
+  margin: 20px;
+  box-shadow: 0px 0px 2px 2px rgb(202, 191, 191);
+  }
+  .pro_heading{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #990000;
+    padding: 20px;
+    height: 200px;
+  }
+  .pro_heading svg{
+  font-size: 80px;
+  }
+  .pro_heading h2{
+  
+  }
+  
+  .pro_plays_info{
+    margin: 0;
+    padding: 10px;
+    background-color: #1a1a1a;
+    color: #fff;
+    justify-content: center;
+   text-align: center;
+  }
+  
+  .pro_plays_info p{
+  margin: 0;
+  padding-top: 10px;
+  color: #ddd;
+  }
+  .pro_plays_info p span{
+  color: #00aaff;
+  }
+  .pro_plays_info .pro_submit{
+  background-color: #fff;
+  margin: 10px; 
+  padding: 10px 60px;
+  color: #000;
+  font-weight: bold;
+  font-size: 15px;
+  }

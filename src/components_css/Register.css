@@ -1,0 +1,31 @@
+.register h2{
+color: #990000;
+margin: 20px 0 50px 0;
+text-align: center;
+}
+.register hr{
+border-bottom: 2px solid #000;
+width: 300px;
+margin: auto;
+}
+.register_form form{
+text-align: center;
+}
+.register_form input{
+  padding: 10px 20px;
+  width: 300px;
+outline: none;
+}
+.label{
+  font-weight: bold;
+ }
+button{
+margin: 20px;
+padding: 10px 30px;
+background-color:  #0052cc;
+outline: none;
+border: none;
+border-radius: 2px;
+color: #fff;
+cursor: pointer;
+}
